@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+}
+#section1 {
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 22%, rgba(0, 0, 0, 0.3) 70%, rgba(0, 0, 0, 0.8) 90%), 
+  url(./netflix-image/2Netflixbgimg.jpg) 57% 72%;
+  height: 95vh;
+}
+#logo {
+  width: 18%;
+}
+.txt_heading {
+  font-size: 3rem;
+  font-weight: 900;
+}
+.sections {
+  height: 80vh;
+}
+
+.box1 {
+  height: 7rem;
+  width: 22rem;
+  left: 19.8%;
+  margin-top: -9%;
+} 
+ 
+ 
